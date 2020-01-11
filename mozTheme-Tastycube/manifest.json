@@ -3,7 +3,7 @@
   "manifest_version": 2,
   "author": "Nesios",
   "name": "Tastycube",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "homepage_url": "https://github.com/N3siOS/Mozilla-Theme-Tastycube",
   "icons": {
     "48": "icons/icon48.png",
