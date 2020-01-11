@@ -1,6 +1,6 @@
-# Thèmes Mozilla Firefox - by Nesios
+# Thèmes Mozilla Firefox TastyCube - by Nesios
 
-## ![icon](/Darken-Nesios/icons/icon32.png) Thème Darken-Nesios v0.1.6
+## ![icon](/Darken-Nesios/icons/icon32.png) Thème TastyCube v0.0.2
 
 Thème pour navigateur Firefox 100% savoureux !
 
