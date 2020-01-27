@@ -1,6 +1,6 @@
 # Thèmes Mozilla Firefox TastyCube - by Nesios
 
-## ![icon](/mozTheme-Tastycube/icons/icon32.png) Thème TastyCube v0.0.8-beta
+## ![icon](/mozTheme-Tastycube/icons/icon32.png) Thème TastyCube v0.0.10-beta
 
 Thème pour navigateur Firefox inspirer du logo Tastycube créé par Nesios pour le serveur Minecraft de[Raphhh](https://www.twitch.tv/raphhh/) !
 
